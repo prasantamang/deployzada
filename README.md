@@ -38,7 +38,7 @@ O `rsync` é um protocolo de sincronização poderoso e eficiente, que:
 - Acesso SSH ao servidor remoto
 - Chave `.pem` (ou configuração SSH equivalente)
 
----
+
 
 ## 🛠️ Como configurar
 
@@ -53,7 +53,7 @@ PEM_KEY="/caminho/para/sua/chave.pem"
 
 ---
 
-## 👤 Autor
+##👤 Autor
 
 **Carlos Henrique Tourinho Santana**
 Desenvolvedor Backend, DevOps e Integrador de Sistemas embarcados, com sólida experiência em **automação com Shell Script, Python, C e C++**. Atua no desenvolvimento de soluções para **ESP32, Arduino e módulos GSM**, além de sistemas web com **PHP**.
@@ -68,11 +68,3 @@ Criador do projeto **To Bem Informado**, que entrega mensagens diárias com cari
 📧 E-mail: [henriquetourinho@riseup.net](mailto:henriquetourinho@riseup.net)
 🐦 Twitter/X: [x.com/ryckybrasil](https://x.com/ryckybrasil)
 📸 Instagram: [@henriquetourinhooficial](https://www.instagram.com/henriquetourinhooficial)
-
----
-
-
-## 📄 Licença
-
-Distribuído sob a licença MIT.
-© 2025 Carlos Henrique Tourinho Santana.
